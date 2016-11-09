@@ -1,0 +1,3 @@
+手机端通过REST和WSDL方式获取服务器数据
+REST返回JSON格式，WSDL返回XML格式
+http://blog.csdn.net/cnyyx/article/details/7483766
